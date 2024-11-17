@@ -1,0 +1,5 @@
+Initialize The Terraform: terraform init
+
+Plan the Terraform Infrastructure: terraform plan
+
+Create the Terraform Infrastructure: terraform apply
